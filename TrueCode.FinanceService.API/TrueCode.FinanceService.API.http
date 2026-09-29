@@ -1,0 +1,6 @@
+@TrueCode.FinanceService.API_HostAddress = http://localhost:5036
+
+GET {{TrueCode.FinanceService.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

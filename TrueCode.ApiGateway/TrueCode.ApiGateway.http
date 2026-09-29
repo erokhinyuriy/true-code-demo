@@ -1,0 +1,6 @@
+@TrueCode.ApiGateway_HostAddress = http://localhost:5169
+
+GET {{TrueCode.ApiGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

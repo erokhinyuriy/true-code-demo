@@ -1,0 +1,6 @@
+@TrueCode.UserService.API_HostAddress = http://localhost:5257
+
+GET {{TrueCode.UserService.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
